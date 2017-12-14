@@ -70,6 +70,7 @@ A living document of resources for diversity in hiring : job boards, organizatio
 * [Latinas In STEM](http://www.latinasinstem.com/) : Latinas in STEM’s primary purpose is to spread awareness about STEM and inspire and encourage middle school and high-school  Latinas, especially within underserved communities, to strongly consider pursuing a STEM career.
 * [Project Include](http://projectinclude.org/) : Non-profit that uses data and advocacy to accelerate diversity and inclusion solutions in the tech industry. Includes specific, actionable advice for organizations.
 * [qeyno](https://www.qeyno.com/) : an independent, membership-driven think thank dedicated to increasing understanding and influencing how the future is shaped by closing the digital divide once and for all.
+* [Resilient Coders](http://www.resilientcoders.org/) : Spreading code literacy to young people from traditionally underserved communities.
 * [She Geeks Out](https://www.shegeeksout.com/) : She Geeks Out’s mission is to educate, promote and support diverse and inclusive companies and organizations
 * [She++](http://www.sheplusplus.com/) : a non-profit organization that works to empower underrepresented groups in technology by dismantling negative stereotypes surrounding technical careers
 * [SOGAL](https://www.iamsogal.com/) :  a platform for the next generation of diverse entrepreneurs and investors. SoGal offers startup advisory, incubating resources, networking opportunities, mentorships and investor relations to help members succeed.
