@@ -52,5 +52,5 @@ A living document of resources for diversity in hiring : job boards, organizatio
 * [Lime Connect](https://www.limeconnect.com/) : a global not for profit organization that's rebranding disability through achievement.
 
 ### Veteran Community focused
-* [Veteran Job Listings](http://www.veteranjoblistings.com/) : a global not for profit organization that's rebranding disability through achievement. 
+* [Veteran Job Listings](http://www.veteranjoblistings.com/) : US veterans job board.
 
