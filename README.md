@@ -54,3 +54,23 @@ A living document of resources for diversity in hiring : job boards, organizatio
 ### Veteran Community focused
 * [Veteran Job Listings](http://www.veteranjoblistings.com/) : US veterans job board.
 
+
+## Organizations educating on and promoting diversity and inclusion
+* [/dev/color](https://www.devcolor.org) : a non-profit organization whose mission is to empower Black software engineers to help one another grow into industry leaders.
+* [Black Girls Code](http://www.blackgirlscode.com/) : BGC’s vision is to increase the number of women of color in the digital space by empowering girls of color ages 7 to 17 to become innovators in STEM fields, leaders in their communities, and builders of their own futures through exposure to computer science and technology.
+* [Blind Institute of Technologies](https://blindinstituteoftechnology.org/) : the Blind Institute of Technologies offers services and assistance at each stage to both candidates with disabilities, and their potential employers.
+* [Code2040](http://www.code2040.org) : a community of Black and Latinx technologists and their allies who are diversifying tech to create a more equitable, inclusive, and prosperous economy.
+* [Dev Chix](http://www.devchix.com) : diverse group of women from a variety of technical and experience background, with a common goal of providing education, support, and mentorship to current and future women in technology.
+* [Equili](http://equi.li/) (formerly LadyCoders) : Equili brings diversity to the tech industry through speaking engagements, workshops, transformative events, app challenges, and community building.
+* [Girl Develop It](https://www.girldevelopit.com/) : a nonprofit organization that exists to provide affordable and judgment-free opportunities for women interested in learning web and software development.
+* [The Grace Hopper Celebration of Women in Computing](https://ghc.anitab.org/) : a series of conferences designed to bring the research and career interests of women in computing to the forefront.
+* [Hack The Hood](http://www.hackthehood.org/) : a nonprofit organization that introduces low-income youth to careers in technology by hiring and training them to build websites for small businesses in their own communities.
+* [HACU](https://www.hacu.net/assnfe/CompanyDirectory.asp) : Hispanic Association of Colleges and Universities
+* [Latinas In STEM](http://www.latinasinstem.com/) : Latinas in STEM’s primary purpose is to spread awareness about STEM and inspire and encourage middle school and high-school  Latinas, especially within underserved communities, to strongly consider pursuing a STEM career.
+* [Project Include](http://projectinclude.org/) : Non-profit that uses data and advocacy to accelerate diversity and inclusion solutions in the tech industry. Includes specific, actionable advice for organizations.
+* [qeyno](https://www.qeyno.com/) : an independent, membership-driven think thank dedicated to increasing understanding and influencing how the future is shaped by closing the digital divide once and for all.
+* [She Geeks Out](https://www.shegeeksout.com/) : She Geeks Out’s mission is to educate, promote and support diverse and inclusive companies and organizations
+* [She++](http://www.sheplusplus.com/) : a non-profit organization that works to empower underrepresented groups in technology by dismantling negative stereotypes surrounding technical careers
+* [SOGAL](https://www.iamsogal.com/) :  a platform for the next generation of diverse entrepreneurs and investors. SoGal offers startup advisory, incubating resources, networking opportunities, mentorships and investor relations to help members succeed.
+* [Tech Jobs Tour](https://techjobstour.com/) : organizing tours that bring together diverse and non-traditional talent with companies who need their skills the most.
+
