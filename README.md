@@ -11,7 +11,7 @@ A living document of resources for diversity in hiring : job boards, organizatio
 * [Tech Connection](https://www.thetechconnectioninc.com)  :  a recruitment platform dedicated to improving the success rates of underrepresented talents.
 
 
-### Gender Focused
+### Gender focused
 * [Anita Borg Institute](http://www.ventureloop.com/anitaborg/) : a global nonprofit organization that aims to recruit, retain, and advance women in technology.
 * [Career Women](https://www.careerwomen.com/) : connecting qualified Career Women with professional opportunities.
 * [FairyGodBoss](https://fairygodboss.com) : Fairygodboss helps women get hard-to-ask questions answered ( eg. pay, corporate culture, benefits and work flexibility). The platform offers company ratings, job listings, discussion boards and career advice.
