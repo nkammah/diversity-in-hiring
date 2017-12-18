@@ -7,6 +7,7 @@ A living document of resources for diversity in hiring : job boards, organizatio
 
 * [Blendoor](http://blendoor.com) : a job-matching app that hides candidates' name, photo, gender and race information, only highlighting what's relevant to the job listing, like professional history and educational background.
 * [Jopwell](https://www.jopwell.com/) : a career advancement platform for Black, Latino/Hispanic, and Native American students and professionals.
+* [Limbo](https://www.limbo.io) : an open & anonymous job platform for quietly looking for a new role. Hides candidates' name, gender and race information. Allows users to optionally identify as members of an underrepresented group.
 * [People Of Color In Tech (POCIT)](http://peopleofcolorintech.com/) : A patreon-supported independent community job board for people of color in technology. The site includes job postings and advice columns.
 * [Tech Connection](https://www.thetechconnectioninc.com)  :  a recruitment platform dedicated to improving the success rates of underrepresented talents.
 
