@@ -14,8 +14,7 @@ A living document of resources for diversity in hiring : job boards, organizatio
 
 
 ### Gender focused
-* [Anita Borg Institute](http://www.ventureloop.com/anitaborg/) : a global nonprofit organization that aims to recruit, retain, and advance women in technology.
-* [Career Women](https://www.careerwomen.com/) : connecting qualified Career Women with professional opportunities.
+* [Anita Borg Institute](https://anitab.org/) : a global nonprofit organization that aims to recruit, retain, and advance women in technology.
 * [Elpha](https://elpha.com/) : Where women succeed at work together 
 * [FairyGodBoss](https://fairygodboss.com) : Fairygodboss helps women get hard-to-ask questions answered ( eg. pay, corporate culture, benefits and work flexibility). The platform offers company ratings, job listings, discussion boards and career advice.
 * [Hackbright Academy](https://hackbrightacademy.com/) :  an online platform dedicated to giving women of diverse backgrounds the power and skills to build a long and successful career in the tech industry.
