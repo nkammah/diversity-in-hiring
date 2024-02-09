@@ -5,7 +5,6 @@ A living document of resources for diversity in hiring : job boards, organizatio
 
 ### Intersectional
 
-* [Blendoor](http://blendoor.com) : a job-matching app that hides candidates' name, photo, gender and race information, only highlighting what's relevant to the job listing, like professional history and educational background.
 * [Diversify Tech](https://www.diversifytech.co/) : A collection of resources for underrepresented people in tech
 * [Jopwell](https://www.jopwell.com/) : a career advancement platform for Black, Latino/Hispanic, and Native American students and professionals.
 * [Latinas in Computing](https://latinasincomputing.org/) : We are a community created by and for Latinas in Computing, with a mission of promoting our representation and success in computing-related fields.
@@ -25,9 +24,7 @@ A living document of resources for diversity in hiring : job boards, organizatio
 * [Power To Fly](https://powertofly.com/) : PowerToFly strives to connect accomplished women with jobs that actually lead to work-life balance.
 * [Society Of Women Engineers](https://careers.swe.org/) : 
 * [The Muse](https://www.themuse.com/jobs) : the Muse’s readership is 65% women, and 77% of its candidates have graduate degrees.
-* [Webgrrls](https://www.webgrrls.com) : an online and offline networking organization of professional business women focused on propelling their careers and businesses forward.
 * [WEPAN](https://jobs.wepan.org) : a non-profit educational organization founded in 1990 to be a catalyst for change to enhance the success of women in the engineering professions.  
-* [Werk](https://www.saywerk.com/) :  Werk prioritizes workplace flexibility in its job posts, appealing to women who know that flexible workplaces increase their likelihood of success
 * [Women in AI](https://www.womeninai.co/) : Women in AI (WAI) is a nonprofit do-tank working towards inclusive AI that benefits global society. 
 * [Women In Technology](https://www.womenintechnology.org/career-center) : Women in Technology (WIT) has the sole aim of advancing women in technology -- from the classroom to the boardroom. 
 * [Women In Technology International](https://www.witi.com/) : WITI helps women advance by providing access to - and support from - other professional women working in all sectors of technology.
@@ -75,4 +72,3 @@ A living document of resources for diversity in hiring : job boards, organizatio
 * [Resilient Coders](http://www.resilientcoders.org/) : Spreading code literacy to young people from traditionally underserved communities.
 * [She Geeks Out](https://www.shegeeksout.com/) : She Geeks Out’s mission is to educate, promote and support diverse and inclusive companies and organizations
 * [SOGAL](https://www.iamsogal.com/) :  a platform for the next generation of diverse entrepreneurs and investors. SoGal offers startup advisory, incubating resources, networking opportunities, mentorships and investor relations to help members succeed.
-* [Tech Jobs Tour](https://techjobstour.com/) : organizing tours that bring together diverse and non-traditional talent with companies who need their skills the most.
