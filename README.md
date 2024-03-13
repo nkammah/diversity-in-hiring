@@ -18,6 +18,7 @@ A living document of resources for diversity in hiring : job boards, organizatio
 * [FairyGodBoss](https://fairygodboss.com) : Fairygodboss helps women get hard-to-ask questions answered ( eg. pay, corporate culture, benefits and work flexibility). The platform offers company ratings, job listings, discussion boards and career advice.
 * [Hackbright Academy](https://hackbrightacademy.com/) :  an online platform dedicated to giving women of diverse backgrounds the power and skills to build a long and successful career in the tech industry.
 * [Hire Tech Ladies](https://www.hiretechladies.com/) : a community for women in tech.
+* [Leopard.fyi](https://leopard.fyi/) : We connect women (trans & cis) and non-binary engineers to vetted companies with great cultures. Leopard gathers intel on company culture, compensation, gender diversity, interview processes, and more!
 * [Mogul](https://onmogul.com) : a platform for women around the world.
 * [Mother Coders](http://www.mothercoders.org/) : MotherCoders is expanding the tech talent pool by helping women with kids gain the skills, knowledge, and connections they need to thrive in today's digital economy.
 * [NCWIT](https://www.ncwit.org/resources/jobs) : the National Center for Women & Information Technology 
